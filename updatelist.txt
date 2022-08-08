@@ -1,0 +1,5 @@
+VictorianVillains	08-03-22
+plugins/VictorianVillains/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-victorianvillains/raw/main/plugininfo.txt	240761
+plugins/VictorianVillains/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-victorianvillains/raw/main/cardback.jpg	270853
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1QfvE2afaLdaC4QZyBFCigFjMUcrGQ49O?usp=sharing
